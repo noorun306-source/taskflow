@@ -52,7 +52,7 @@ Component-based architecture
 
  ## Project Structure
 
- ## Taskflow/ ├── public/ ├── src/ │ ├── components/ │ ├── App.jsx │ └── ... ├── package.json └── README.md 
+ Taskflow/ ├── public/ ├── src/ │ ├── components/ │ ├── App.jsx │ └── ... ├── package.json └── README.md 
 
  ## How to Run the Project
 
