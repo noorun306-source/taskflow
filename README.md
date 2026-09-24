@@ -1,12 +1,12 @@
 Taskflow – React Task Management Dashboard
 
-Taskflow is a responsive task management dashboard built with React and Vite. It allows users to manage tasks, filter and sort them, and keep tasks saved in the browser.
+Taskflow is a responsive task management dashboard built with React and Vite. It allows users to create, manage, filter, sort, and track tasks through a clean and simple interface.
 
 Features
 
 Add new tasks
 
-Edit tasks
+Edit existing tasks
 
 Delete tasks
 
@@ -18,7 +18,7 @@ Sort tasks
 
 Save tasks using Local Storage
 
-Responsive dashboard UI
+Responsive and user-friendly dashboard
 
 Technologies Used
 
@@ -34,7 +34,7 @@ Vite
 
 React Concepts Used
 
-Components
+Functional Components
 
 Props
 
@@ -42,17 +42,49 @@ useState
 
 useEffect
 
-Event handling
+Event Handling
 
-Conditional rendering
+Conditional Rendering
 
 Local Storage
 
-How to Run Locally
+Component-based architecture
 
-npm install npm run dev 
-Then open the local development URL shown in the terminal.
+Project Structure
 
-Project
+Taskflow/ ├── public/ ├── src/ │ ├── components/ │ ├── App.jsx │ └── ... ├── package.json └── README.md 
 
-Taskflow was created as a portfolio project to practice building a functional React application with reusable components and state management.
+How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/Noorun/taskflow.git 
+
+2. Open the project folder
+
+cd taskflow 
+
+3. Install dependencies
+
+npm install 
+
+4. Start the development server
+
+npm run dev 
+Then open the local URL shown in the terminal.
+
+Project Purpose
+
+Taskflow was created as a portfolio project to practice building a functional React application using reusable components, state management, event handling, and browser storage.
+
+Future Improvements
+
+User authentication
+
+Backend integration
+
+Database storage
+
+Task due dates and reminders
+
+Drag-and-drop task management⁸
