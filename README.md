@@ -93,8 +93,8 @@ Drag-and-drop task management⁸
 
 ### Dashboard
 
-![Taskflow Dashboard](Screenshot_taskflow)
+![Taskflow Dashboard](Screenshot_taskflow.jpeg)
 
 ### Task Management
 
-![Taskflow Task Management](Screenshot_taskflow2)
+![Taskflow Task Management](Screenshot_taskflow.jpeg)
