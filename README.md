@@ -1,16 +1,58 @@
-# React + Vite
+Taskflow – React Task Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Taskflow is a responsive task management dashboard built with React and Vite. It allows users to manage tasks, filter and sort them, and keep tasks saved in the browser.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Add new tasks
 
-## React Compiler
+Edit tasks
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Delete tasks
 
-## Expanding the ESLint configuration
+Mark tasks as completed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Filter tasks
+
+Sort tasks
+
+Save tasks using Local Storage
+
+Responsive dashboard UI
+
+Technologies Used
+
+React
+
+JavaScript
+
+HTML
+
+CSS
+
+Vite
+
+React Concepts Used
+
+Components
+
+Props
+
+useState
+
+useEffect
+
+Event handling
+
+Conditional rendering
+
+Local Storage
+
+How to Run Locally
+
+npm install npm run dev 
+Then open the local development URL shown in the terminal.
+
+Project
+
+Taskflow was created as a portfolio project to practice building a functional React application with reusable components and state management.
