@@ -50,10 +50,6 @@ Local Storage
 
 Component-based architecture
 
- ## Project Structure
-
- Taskflow/ ├── public/ ├── src/ │ ├── components/ │ ├── App.jsx │ └── ... ├── package.json └── README.md 
-
  ## How to Run the Project
 
 1. Clone the repository
