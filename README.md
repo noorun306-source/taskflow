@@ -88,3 +88,13 @@ Database storage
 Task due dates and reminders
 
 Drag-and-drop task management⁸
+
+## Screenshots
+
+### Dashboard
+
+![Taskflow Dashboard](Screenshot_taskflow)
+
+### Task Management
+
+![Taskflow Task Management](Screenshot_taskflow2)
