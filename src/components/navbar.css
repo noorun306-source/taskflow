@@ -1,0 +1,21 @@
+nav {
+   background: #182235;
+   color: white;
+   padding: 20px max(24px, calc((100% - 1040px) / 2));
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   box-shadow: 0 8px 24px rgba(24, 34, 53, 0.16);
+}
+
+nav h2 {
+   color: #f4a261;
+   font-size: 26px;
+   letter-spacing: 0.5px;
+}
+
+nav span {
+   color: #d9e2ec;
+   font-size: 14px;
+}
+ 
